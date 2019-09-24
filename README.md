@@ -1,2 +1,0 @@
-# servicestage-demo
-try servicestage
